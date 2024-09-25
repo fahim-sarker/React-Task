@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero':"url(./src/assets/hero.png)",
+        'hero':"url('/src/assets/hero.png')",
       },
       keyframes: {
         spin: {
